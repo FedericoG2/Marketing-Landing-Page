@@ -1,1 +1,11 @@
+# Sunnyside
+
+Este proyecto es una implementación del desafío de Frontend Mentor. Frontend Mentor es una plataforma que proporciona desafíos de diseño web para practicar y mejorar habilidades de desarrollo frontend en proyectos reales.
+
+
+## Objetivos
+
+ - Mejorar habilidades en React y Taiwlind. 
+ - Practicar técnicas de diseño responsivo.
+
 
